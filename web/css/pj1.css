@@ -1,0 +1,28 @@
+h1{
+    color: slateblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 250;
+
+}
+#div1{
+    background-color: burlywood;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#div2{
+    background-color: royalblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#p1{
+    color: rebeccapurple
+}
+#p2{
+    color:powderblue;
+    background-color: navy;
+    
+}
+img{
+    padding-left: 100px;
+}
+h2{
+    color:bisque
+}
